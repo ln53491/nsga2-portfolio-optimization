@@ -1,0 +1,6 @@
+populationSize: 130, 140, 150, 160, 170
+tournamentSize: 2
+tournamentProbability: 0.14, 0.15, 0.16
+crossoverParam: 0.14, 0.15, 0.16
+mutationFactor: 0.45, 0.5, 0.55
+mutationProbability: 0.14, 0.15, 0.16

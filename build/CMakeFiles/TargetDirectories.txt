@@ -1,0 +1,7 @@
+/home/luka/Documents/Faks/PortfolioOptimizer/build/CMakeFiles/portfoliooptimizer.dir
+/home/luka/Documents/Faks/PortfolioOptimizer/build/CMakeFiles/edit_cache.dir
+/home/luka/Documents/Faks/PortfolioOptimizer/build/CMakeFiles/rebuild_cache.dir
+/home/luka/Documents/Faks/PortfolioOptimizer/build/CMakeFiles/list_install_components.dir
+/home/luka/Documents/Faks/PortfolioOptimizer/build/CMakeFiles/install.dir
+/home/luka/Documents/Faks/PortfolioOptimizer/build/CMakeFiles/install/local.dir
+/home/luka/Documents/Faks/PortfolioOptimizer/build/CMakeFiles/install/strip.dir
