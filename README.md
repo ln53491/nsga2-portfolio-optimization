@@ -5,12 +5,11 @@
 
 Algorithm Steps
 ------------
-
-1. Python script (using Yfinance) fetches hourly prices for each given stock ticker for a given period of time (in days).
-  - **maximization** - expected return
-  - **minimization** - risk (as a total standard deviation)
+1. Python script (using Yfinance) fetches hourly prices for each given stock ticker for a given period of days.
+     - **maximization** - expected return
+     - **minimization** - risk (as a total standard deviation)
 2. Optimization of the portfolio using NSGA-II (with halving grid search method for approximating the best hyperparameter combination).
-  - **output** - the final population of portfolios grouped in fronts
+     - **output** - the final population of portfolios grouped in fronts
 3. Displayed output with Matplotlib and Seaborn.
 
 Requirements
