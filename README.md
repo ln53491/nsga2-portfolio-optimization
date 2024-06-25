@@ -19,3 +19,8 @@ STOCK2
 **2. Hyperparameter grid search**
   - Put desired values for each NSGA-II hyperparameter in ```params.cnf```
   - Run ```runGridSearch()``` from ```main.cpp```
+
+Requirements
+------------
+  - ```C++11``` with CMake
+  - ```Python 3.xx``` with Yfinance, Seaborn, Matplotlib, NumPy
