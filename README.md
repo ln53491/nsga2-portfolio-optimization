@@ -1,2 +1,3 @@
-# nsga2-portfolio-optimization
-C++ implementation of NSGA2 multi-objective optimization evolutionary algorithm for generating optimal stock portfolio
+# NSGA-II Portfolio Optimization
+
+![](https://github.com/ln53491/nsga2-portfolio-optimization/blob/main/example/example.gif)
