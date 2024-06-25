@@ -6,13 +6,13 @@
 Usage
 ------------
 **1. Basic algorithm use**
-  - Edit ```input.cnf``` as such:
+  - Edit ```input.cnf``` by setting start and end dates of portfolio data and their respective stock tickers as such:
 ```
-    START DATE
-    END DATE
-    STOCK1
-    STOCK2
-    ...
+START DATE
+END DATE
+STOCK1
+STOCK2
+...
 ```
   - In ```main.cpp``` tweak the parameters and run ```runNSGA2()```
 
